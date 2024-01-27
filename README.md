@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Otavio Ximarelli</h1>
 <h3 align="center">A passionate developer from Brazil who loves all kind of programming roles such as web applications, mobile apps and computer softwares 😊</h3>
 
-- 🌱 I’m currently learning **Web developement, and i want to focus in back-end area, end in the feture in desktop app (macOS, windows and linux programs)**
+- 🌱 I’m currently learning **web developement, and I want to focus in back-end area, end in the feture work in develop some desktop softwares (macOS, windows and linux programs)**
 
 - 💬 Ask me about **pc specs, games, pc gaming stuff, videogames, everything that envolves processor and bits Im ready to talk!**
 
 - 📫 How to reach me **dev.ximarelli@outlook.com**
 
-- 📄 Know about my experiences [I'm new to the world of technology, I hope to find a job that helps me develop my skills in the same way that I hope to help the company grow too, everyone wins! :)](I'm new to the world of technology, I hope to find a job that helps me develop my skills in the same way that I hope to help the company grow too, everyone wins! :))
-
+- 📄 Know about my experiences [I'm new to the world of technology, I hope to find a job that helps me develop my skills in the same way that I hope to help the company grow too, everyone wins! :)]
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/otavio_ximarelli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="otavio_ximarelli" height="30" width="40" /></a>
