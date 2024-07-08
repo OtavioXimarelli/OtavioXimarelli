@@ -1,17 +1,40 @@
-<h1 align="center">Hi 👋, I'm Otavio Ximarelli</h1>
-<h3 align="center">A passionate developer from Brazil who loves all kind of programming roles, mobile apps and computer softwares</h3>
+<h2 align="left">Hi 👋! My name is Otavio and I'm a Data Science student and Kotlin dev from Brazil!</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=otavioximarelli&label=Profile%20views&color=0e75b6&style=flat" alt="otavioximarelli" /> </p>
+###
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=otavioximarelli" alt="otavioximarelli" /></a> </p>
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-- 🌱 I’m currently learning **Data science and python, focusing real aplications**
+###
 
-- 💬 Ask me about **pc specs, games, pc gaming stuff, videogames, everything that envolves processor and bits Im ready to talk!**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
+</div>
 
-- 📫 How to reach me **dev.ximarelli@outlook.com or ximarelliotavio@gmail.com**
+###
 
-- 📄 Know about my experiences [I'm new to the world of technology, I hope to find a job that helps me develop my skills in the same way that I hope to help the company grow too, everyone wins! :)](I'm new to the world of technology, I hope to find a job that helps me develop my skills in the same way that I hope to help the company grow too, everyone wins! :))
+<div align="left">
+  <a href="https://www.instagram.com/otavio_ximarelli/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="otavioxima@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/otavioximarelli/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
