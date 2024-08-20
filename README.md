@@ -1,4 +1,4 @@
-<h4 align="left">Hi there, I'm Otavio Ximarelli! 👋<br>I'm a Data Science student and Python developer from Brazil, passionate about coding and eager to make an impact in the tech industry. My journey in tech began with a strong interest in data analysis and machine learning, which naturally led me to explore Python and its powerful libraries. Over time, I've also gained experience in web development using Django, allowing me to build data-driven web applications.<br><br>🔧 Technologies & Tools<br>Programming Languages: Python, SQL<br>Data Science & Machine Learning: Pandas, NumPy, Scikit-learn, TensorFlow<br>Web Development: Django, HTML, CSS<br>Version Control: Git, GitHub<br>🚀 What I'm Working On<br>I'm currently focused on improving my skills in machine learning and exploring deep learning techniques. Additionally, I'm looking for opportunities to collaborate on innovative projects that solve real-world problems through data-driven solutions.<br><br>🌱 Goals<br>Contribute to open-source projects<br>Learn more about cloud computing and DevOps practices<br><br>📫 Let's Connect!<br>Feel free to reach out to me on LinkedIn or check out my portfolio.</h4>
+<h4 align="left">Hi there, I'm Otavio Ximarelli! 👋<br>I'm a Data Science student and Python developer from Brazil, passionate about coding and eager to make an impact in the tech industry. My journey in tech began with a strong interest in data analysis and machine learning, which naturally led me to explore Python and its powerful libraries. Over time, I've also gained experience in web development using Django, allowing me to build data-driven web applications.<br><br>🔧 Technologies & Tools<br>Programming Languages: Python, SQL<br>Data Science & Machine Learning: Pandas, NumPy, Scikit-learn, TensorFlow<br>Web Development: Django, HTML, CSS<br>Version Control: Git, GitHub<br>🚀 What I'm Working On<br>I'm currently focused on improving my skills in machine learning and exploring deep learning techniques. Additionally, I'm looking for opportunities to collaborate on innovative projects that solve real-world problems through data-driven solutions.<br><br>🌱 Goals<br>Contribute to open-source projects<br>Learn more about cloud computing and DevOps practices.<br></h4>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG9xNHdyb3dybHFzMzlkZWZqYm5oNWg5czc1cThpdmZhMHRmY3dsMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kBdQA2opPMRBRNvggW/giphy.gif"  />
+<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG9xNHdyb3dybHFzMzlkZWZqYm5oNWg5czc1cThpdmZhMHRmY3dsMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kBdQA2opPMRBRNvggW/giphy.gif"/>
 
 ###
 
