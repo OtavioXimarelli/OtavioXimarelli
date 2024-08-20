@@ -9,7 +9,7 @@
 
 ###
 
-<img src="https://tenor.com/pt-BR/view/oh-elden-ring-reverential-bow-d-hunter-of-the-dead-gif-26937701" align="right" height="150" alt="coding gif"/>
+<img src="https://media1.tenor.com/m/xqlSg3B2lK4AAAAC/oh-elden-ring-reverential-bow-d-hunter-of-the-dead.gif" align="right" height="150" alt="coding gif"/>
 
 
 ###
