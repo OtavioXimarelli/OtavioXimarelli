@@ -38,7 +38,9 @@
   </a>
 </div>
 
-![snake gif](https://github.com/OtavioXimarelli/OtavioXimarelli/blob/output/github-contribution-grid-snake.gif)
+
+![snake gif](https://github.com/OtavioXimarelli/OtavioXimarelli/blob/main/github-contribution-grid-snake.gif)
+
 
 ###
 
