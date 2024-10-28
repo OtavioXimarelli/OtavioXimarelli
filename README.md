@@ -24,6 +24,8 @@
 
 ###
 
+<p align="left"> My current personal project: <a href="https://www.ourstory.uno/"> Our Love Story </a>, feel free to visit and check out the public repository. If you have any suggestions, I'd be happy to hear them! </p>
+
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
