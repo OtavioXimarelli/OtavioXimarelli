@@ -20,11 +20,9 @@
 
 ###
 
-<p align="left">I'm Otavio from Brazil.<br><br>I am focused on backend development with Java and Spring. My goal is to build robust and scalable systems, and I am always eager to learn more and collaborate on innovative projects. I have been developing my skills to become a backend specialist, and I also really enjoy the field of mobile development. :)<br><br>📚 I'm currently studying Computer Science at the University of the People.<br>⚡ In my free time, I code :), go to the gym, and of course, play some games.</p>
+<p align="left">I'm Otavio from Brazil.<br><br>I am focused on backend development with Java and Spring. My goal is to build robust and scalable systems, and I am always eager to learn more and collaborate on innovative projects. I have been developing my skills to become a backend specialist, and I also really enjoy the field of mobile development. :)<br><br>📚 I'm currently studying computer Engineering at the Univesp.<br>⚡ In my free time, I code :), go to the gym, and of course, play some games.</p>
 
 ###
-
-<p align="left"> My current personal project: <a href="https://www.ourstory.uno/"> Our Love Story </a>, feel free to visit and check out the public repository. If you have any suggestions, I'd be happy to hear them! </p>
 
 <h3 align="left">🛠 Language and tools</h3>
 
