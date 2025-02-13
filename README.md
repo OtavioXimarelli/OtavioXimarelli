@@ -58,10 +58,13 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OtavioXimarelli&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=OtavioXimarelli&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-###
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=OtavioXimarelli&theme=youtube-dark&hide_border=true&short_numbers=true" alt="GitHub Streak" />
+  </a>
+</div>
 
 <div align="center">
   <a href="https://open.spotify.com/user/2dcq8odlva885v4zs80n9tam6">
