@@ -117,8 +117,8 @@
 ## <h3 align="left">🚀 Featured Projects</h3>
 
 <div align="left">
-  <a href="https://github.com/OtavioXimarelli/AiAPP">
-    <img src="https://img.shields.io/badge/Project%201-Spring%20API-green?style=for-the-badge" alt="AiFoodApp" />
+  <a href="https://github.com/OtavioXimarelli/AiFoodApp">
+    <img src="https://img.shields.io/badge/AI Food App%20-Spring%20API-green?style=for-the-badge" alt="AiFoodApp" />
   </a>
    <!--- <img width="12" />
   <a href="https://github.com/OtavioXimarelli/project-name-2">
