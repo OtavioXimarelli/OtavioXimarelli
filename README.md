@@ -16,8 +16,8 @@
 # <h1 align="center">Hey There 👋</h1>
 
 <div align="center">
-  <b>Java Backend Developer | Spring Boot Specialist | Cloud & DevOps Learner | Computer Engineering Student</b>
-</div>
+  <b>Java Backend Developer | Spring Boot Specialist | Contributor @ <a href="https://github.com/QuoteVote">QuoteVote</a> | Computer Engineering Student</b>
+</div>    
 
 ---
 
@@ -27,36 +27,47 @@
 
 Hi, I’m **Otavio**, a Brazilian developer 🇧🇷 passionate about building **robust and scalable backend systems**.  
 
-- 🚀 Experienced with **Java + Spring Boot** for enterprise-grade RESTful APIs  
-- 🔒 Skilled in **OAuth2 authentication, Spring Security & session management**  
-- 🛠️ Strong background with **databases, cloud hosting, and containerization**  
-- 🎯 Goal: Become a **backend specialist** while exploring mobile development  
+- 🚀 Specialist in **Java + Spring Boot** for enterprise-grade RESTful APIs  
+- 🤝 **Official Core Contributor** at [QuoteVote](https://github.com/quote-vote/quote.vote-next) (Open Source)
+- 🔒 Skilled in **OAuth2, Spring Security & Session Management**
+- 🐧 **Linux Enthusiast** focused on DevOps and Environment Setup
+- 🎯 Goal: Become a **Backend Specialist** while mastering Distributed Systems
 - 📚 Studying **Computer Engineering** at UNIVESP  
-- 🤝 Open to collaborating on **distributed systems, API design, and microservices**  
 
 ---
 
 ## 🛠️ Tech Stack  
 
-### Backend  
-Java · Spring Boot · Spring Security · Spring Data JPA · Spring AI · Gradle · Apache Tomcat  
+### Backend & Languages
+Java · Spring Boot · Spring Security · Spring Data JPA · TypeScript · Node.js (Express 5)
 
 ### Databases  
 PostgreSQL · MongoDB · MySQL · Redis · Flyway  
 
-### DevOps & Cloud  
-Docker · Docker Compose · AWS (EC2) · Nginx · Git · CI/CD pipelines  
+### DevOps, Cloud & OS
+Docker · Docker Compose · AWS (EC2) · Nginx · CI/CD pipelines · Linux
 
 ### Mobile (Exploring)  
 Android · Kotlin · Firebase  
 
-### Frontend (Basics)  
-Angular · HTML · CSS · JavaScript · TypeScript  
+---
+
+## 🤝 Open Source Contributions
+
+I'm proud to be a **Contributor** for **Quote.Vote**, helping build the next generation of thoughtful social platforms.
+
+### 🗳️ [Quote.Vote Next](https://github.com/quote-vote/quote.vote-next)
+> *An open-source, text-only social platform fostering deliberative dialogue through real-time chatrooms.*
+
+**My Role:** Core Contributor (Backend & DevOps)
+* **Modern Stack:** Working with **Node.js 20+, Express 5, TypeScript (Strict), and GraphQL (Apollo Server)**.
+* **Infrastructure:** Responsible for optimizing the **Docker** environment and containerization strategies for the monorepo structure.
+* **Collaboration:** migrating legacy logic to a robust, type-safe architecture using **Next.js 16** standards and **MongoDB**.
 
 ---
 
 ## 🌱 Currently Learning  
-GraphQL · Flutter · Kubernetes · Jenkins  
+GraphQL · Kubernetes · System Architecture · French (Français) 🇫🇷
 
 ---
 
@@ -72,37 +83,14 @@ GraphQL · Flutter · Kubernetes · Jenkins
 - Google **OAuth2 authentication** with Spring Security  
 - **Persistent sessions** with Spring Session JDBC  
 - **Food CRUD** with nutritional data  
-- **AI-powered recipe generation & nutrition analysis** (Spring AI + Maritaca API)  
+- **AI-powered recipe generation** (Spring AI + Maritaca API)  
 - **PostgreSQL + Flyway** for database migrations  
 - **Docker Compose + Nginx + AWS EC2** deployment  
 
-🌍 **Live Demo:** [aifoodapp.site](https://aifoodapp.site)  
+🌍 **Live Demo:** [aifoodapp.site](https://aifoodapp.site) *(Temporarily under maintenance)*
 
 👉 [Explore the code](https://github.com/OtavioXimarelli/AiFoodApp)  
 
-
----
-
-## 🔥 My Stats  
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OtavioXimarelli&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OtavioXimarelli&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioXimarelli&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
-</div>
-
----
-
-## 🎵 Vibing To  
-
-<div align="center">
-  <a href="https://open.spotify.com/user/2dcq8odlva885v4zs80n9tam6">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=2dcq8odlva885v4zs80n9tam6&count=5" alt="Spotify recently played" />
-  </a>
-</div>
 
 ---
 
@@ -110,5 +98,4 @@ GraphQL · Flutter · Kubernetes · Jenkins
 
 <div align="center">
   <h3>Let’s Connect & Build Amazing Things Together! 🚀</h3>
-  <img src="https://profile-counter.glitch.me/OtavioXimarelli/count.svg?" />
 </div>
