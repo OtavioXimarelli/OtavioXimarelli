@@ -71,7 +71,47 @@ GraphQL · Kubernetes · System Architecture · French (Français) 🇫🇷
 
 ---
 
-## 🚀 Featured Project  
+## 🚀 Featured Projects  
+
+### 🌹 [Rosário Vivo](https://github.com/OtavioXimarelli/HaveYouPrayedTheRosaryToday) *(Latest)*
+
+<a href="https://github.com/OtavioXimarelli/HaveYouPrayedTheRosaryToday">
+  <img src="https://img.shields.io/badge/Ros%C3%A1rio%20Vivo-Next.js%2016%20%7C%20NestJS%20%7C%20MongoDB-blueviolet?style=for-the-badge" alt="Rosário Vivo" />
+</a>
+
+**Rosário Vivo** → A **Catholic spiritual platform** to track daily Rosary practice, learn the Mysteries, and grow in prayer.
+
+🔑 Key Features:
+- **Daily check-in** — log prayers with Mystery selection, intentions & reflection
+- **Streak tracking** — monitor prayer consistency over time
+- **Content library** — teachings, traditional prayers, learning paths & resources
+- **Installable PWA** with dark/light theme (Cathedral Night & Sacred Cream)
+- **Full-stack monorepo**: Next.js 16 (App Router) + NestJS 10 + MongoDB 7
+- **Docker Compose + Coolify** deployment
+
+👉 [Explore the code](https://github.com/OtavioXimarelli/HaveYouPrayedTheRosaryToday)
+
+---
+
+### 📊 [LogHub](https://github.com/OtavioXimarelli/LogHub)
+
+<a href="https://github.com/OtavioXimarelli/LogHub">
+  <img src="https://img.shields.io/badge/LogHub-Spring%20Boot%204%20%7C%20MongoDB%20%7C%20RabbitMQ-orange?style=for-the-badge" alt="LogHub" />
+</a>
+
+**LogHub** → A **SaaS Log Aggregator** built with the latest Spring Boot 4 & Java 25.
+
+🔑 Key Features:
+- **Log ingestion & aggregation** via **RabbitMQ** (AMQP)
+- **MongoDB** for flexible log storage
+- **Spring Boot Actuator** for health monitoring
+- **Docker Compose** for containerized deployment
+
+👉 [Explore the code](https://github.com/OtavioXimarelli/LogHub)
+
+---
+
+### 🍽️ [AiFoodApp](https://github.com/OtavioXimarelli/AiFoodApp)
 
 <a href="https://github.com/OtavioXimarelli/AiFoodApp">
   <img src="https://img.shields.io/badge/AiFoodApp%20-Spring%20Boot%20%7C%20OAuth2%20%7C%20PostgreSQL-green?style=for-the-badge" alt="AiFoodApp" />
@@ -90,7 +130,6 @@ GraphQL · Kubernetes · System Architecture · French (Français) 🇫🇷
 🌍 **Live Demo:** [aifoodapp.site](https://aifoodapp.site) *(Temporarily under maintenance)*
 
 👉 [Explore the code](https://github.com/OtavioXimarelli/AiFoodApp)  
-
 
 ---
 
