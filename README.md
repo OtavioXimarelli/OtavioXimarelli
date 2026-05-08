@@ -13,123 +13,117 @@
   </a>
 </div>
 
-# <h1 align="center">Hey There 👋</h1>
+# <h1 align="center">Otavio Ximarelli</h1>
+
+---
+
+## 🗳️ Core Contributor at QuoteVote
 
 <div align="center">
-  <b>Java Backend Developer | Spring Boot Specialist | Contributor @ <a href="https://github.com/QuoteVote">QuoteVote</a> | Computer Engineering Student</b>
-</div>    
+
+<a href="https://github.com/quote-vote/quote.vote-next">
+  <img src="https://img.shields.io/badge/Quote.Vote%20Core%20Contributor-Node.js%20%7C%20TypeScript%20%7C%20GraphQL-9cf?style=for-the-badge" alt="QuoteVote" />
+</a>
+  
+**Helping build the next generation of social platforms!**  
+Core backend/devops contributor for [QuoteVote](https://github.com/quote-vote/quote.vote-next):  
+A modern, open-source, text-only platform fostering real-time, deliberative chatrooms.
+
+- Full-stack refactor with Node.js 20+, Express 5, GraphQL (Apollo), MongoDB.
+- Led Dockerization and CI/CD modernization for the monorepo.
+- Migrating legacy logic to a robust, type-safe architecture with strict TypeScript and Next.js 16.
+- Collaborating on distributed systems principles, real-time communication and performance optimizations.
+</div>
 
 ---
 
-## 👨‍💻 About Me  
+## 🚀 Overview
 
-<img align="right" width="250" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding GIF" />
+Hi, I’m **Otavio**, a passionate Brazilian backend developer focused on building robust, scalable, and user-centered software.
 
-Hi, I’m **Otavio**, a Brazilian developer 🇧🇷 passionate about building **robust and scalable backend systems**.  
-
-- 🚀 Specialist in **Java + Spring Boot** for enterprise-grade RESTful APIs  
-- 🤝 **Official Core Contributor** at [QuoteVote](https://github.com/quote-vote/quote.vote-next) (Open Source)
-- 🔒 Skilled in **OAuth2, Spring Security & Session Management**
-- 🐧 **Linux Enthusiast** focused on DevOps and Environment Setup
-- 🎯 Goal: Become a **Backend Specialist** while mastering Distributed Systems
-- 📚 Studying **Computer Engineering** at UNIVESP  
+- 🏆 **Backend Specialist:** Java, Spring Boot, REST APIs, Security
+- 🧩 **Full-Stack Explorer:** TypeScript, Next.js, Node.js, NestJS
+- 💡 **DevOps & Cloud:** Docker, Linux, AWS, CI/CD, Nginx
+- 🤝 **Open-source first** — ask me about how to collaborate!
+- 📚 **Always Learning:** Distributed Systems, GraphQL, System Architecture, French 🇫🇷
 
 ---
 
-## 🛠️ Tech Stack  
-
-### Backend & Languages
-Java · Spring Boot · Spring Security · Spring Data JPA · TypeScript · Node.js (Express 5)
-
-### Databases  
+## 🛠️ Tech Stack
+**Languages & Backend:**  
+Java · Spring Boot · Spring Security · Spring Data JPA · TypeScript · Node.js (Express/NestJS)  
+**Frontend/Fullstack:**  
+Next.js · React · TailwindCSS  
+**Databases:**  
 PostgreSQL · MongoDB · MySQL · Redis · Flyway  
-
-### DevOps, Cloud & OS
-Docker · Docker Compose · AWS (EC2) · Nginx · CI/CD pipelines · Linux
-
-### Mobile (Exploring)  
-Android · Kotlin · Firebase  
+**DevOps/Cloud:**  
+Docker · Docker Compose · AWS (EC2) · Nginx · CI/CD · Linux  
+**Other:**  
+GraphQL · REST · PWA · Firebase
 
 ---
 
-## 🤝 Open Source Contributions
+## 🏅 Featured Projects
 
-I'm proud to be a **Contributor** for **Quote.Vote**, helping build the next generation of thoughtful social platforms.
-
-### 🗳️ [Quote.Vote Next](https://github.com/quote-vote/quote.vote-next)
-> *An open-source, text-only social platform fostering deliberative dialogue through real-time chatrooms.*
-
-**My Role:** Core Contributor (Backend & DevOps)
-* **Modern Stack:** Working with **Node.js 20+, Express 5, TypeScript (Strict), and GraphQL (Apollo Server)**.
-* **Infrastructure:** Responsible for optimizing the **Docker** environment and containerization strategies for the monorepo structure.
-* **Collaboration:** migrating legacy logic to a robust, type-safe architecture using **Next.js 16** standards and **MongoDB**.
-
----
-
-## 🌱 Currently Learning  
-GraphQL · Kubernetes · System Architecture · French (Français) 🇫🇷
-
----
-
-## 🚀 Featured Projects  
-
-### 🌹 [Rosário Vivo](https://github.com/OtavioXimarelli/HaveYouPrayedTheRosaryToday) *(Latest)*
+### 🌹 [Rosário Vivo](https://github.com/OtavioXimarelli/HaveYouPrayedTheRosaryToday)
 
 <a href="https://github.com/OtavioXimarelli/HaveYouPrayedTheRosaryToday">
   <img src="https://img.shields.io/badge/Ros%C3%A1rio%20Vivo-Next.js%2016%20%7C%20NestJS%20%7C%20MongoDB-blueviolet?style=for-the-badge" alt="Rosário Vivo" />
 </a>
 
-**Rosário Vivo** → A **Catholic spiritual platform** to track daily Rosary practice, learn the Mysteries, and grow in prayer.
+A **Catholic spiritual platform** to deepen and organize your prayer life—track your daily Rosary, meditate on Mysteries, access a curated spiritual library, and celebrate your faith with gamified streaks.
 
-🔑 Key Features:
-- **Daily check-in** — log prayers with Mystery selection, intentions & reflection
-- **Streak tracking** — monitor prayer consistency over time
-- **Content library** — teachings, traditional prayers, learning paths & resources
-- **Installable PWA** with dark/light theme (Cathedral Night & Sacred Cream)
-- **Full-stack monorepo**: Next.js 16 (App Router) + NestJS 10 + MongoDB 7
-- **Docker Compose + Coolify** deployment
-
-👉 [Explore the code](https://github.com/OtavioXimarelli/HaveYouPrayedTheRosaryToday)
+- Full installable PWA, responsive and optimized for mobile and desktop.
+- Daily check-ins with selection of Mysteries, intentions, reflections and feedback.
+- Automatic streak tracker and achievement system for continuous motivation.
+- Dynamic content library with teachings, traditional prayers and resources.
+- Built as a full-stack monorepo: Next.js 16 (App Router) frontend, NestJS 10 API, MongoDB 7.
+- Fully containerized for deployment with Docker Compose and Coolify.
+- **Domain:** [HaveYouPrayedTheRosaryToday](https://github.com/OtavioXimarelli/HaveYouPrayedTheRosaryToday)
 
 ---
 
-### 📊 [LogHub](https://github.com/OtavioXimarelli/LogHub)
+### 🧑‍💻 [ximarelli.dev](https://ximarelli.dev)
 
-<a href="https://github.com/OtavioXimarelli/LogHub">
-  <img src="https://img.shields.io/badge/LogHub-Spring%20Boot%204%20%7C%20MongoDB%20%7C%20RabbitMQ-orange?style=for-the-badge" alt="LogHub" />
+<a href="https://ximarelli.dev">
+  <img src="https://img.shields.io/badge/Portfolio-ximarelli.dev-informational?style=for-the-badge" alt="ximarelli.dev" />
 </a>
 
-**LogHub** → A **SaaS Log Aggregator** built with the latest Spring Boot 4 & Java 25.
+**Personal portfolio and technical blog:**  
+Showcasing who I am and what I do, built to be fast and accessible.
 
-🔑 Key Features:
-- **Log ingestion & aggregation** via **RabbitMQ** (AMQP)
-- **MongoDB** for flexible log storage
-- **Spring Boot Actuator** for health monitoring
-- **Docker Compose** for containerized deployment
+- Clean, modern design with responsive layouts and dark/light themes.
+- Projects gallery with detailed writeups and live links.
+- Dev blog with posts on backend, infrastructure, and productivity.
+- Powered by Next.js 14, TypeScript, TailwindCSS, and deployed to Vercel.
+- Dockerized for professional development workflow and easy portability.
+- <strong><a href="https://ximarelli.dev"><kbd>🌐 ximarelli.dev</kbd></a></strong>
 
-👉 [Explore the code](https://github.com/OtavioXimarelli/LogHub)
+---
+
+### 🧩 CAF – Modular Modern App Boilerplate
+
+CAF (Code Architecture Foundation) is a modern template for rapid development of scalable TypeScript backend applications.
+
+- Plug-and-play modules for authentication, RBAC, database (MongoDB), and logging.
+- Strongly typed APIs (REST) with clean, maintainable architecture—ideal for quick MVPs or production SaaS.
+- Monorepo-ready structure, supports isolated service components or multi-app scaffolding.
+- Includes best-practices for environment configuration, Dockerization, and real-world cloud deployment.
+- Built with 95%+ TypeScript, plus CSS and small utilities.
 
 ---
 
 ### 🍽️ [AiFoodApp](https://github.com/OtavioXimarelli/AiFoodApp)
 
-<a href="https://github.com/OtavioXimarelli/AiFoodApp">
-  <img src="https://img.shields.io/badge/AiFoodApp%20-Spring%20Boot%20%7C%20OAuth2%20%7C%20PostgreSQL-green?style=for-the-badge" alt="AiFoodApp" />
-</a>  
+Full-stack nutrition and food management tool powered by AI.
 
-**AiFoodApp** → A complete **food management & AI recipe system** built with **Spring Boot**.  
-
-🔑 Key Features:  
-- Google **OAuth2 authentication** with Spring Security  
-- **Persistent sessions** with Spring Session JDBC  
-- **Food CRUD** with nutritional data  
-- **AI-powered recipe generation** (Spring AI + Maritaca API)  
-- **PostgreSQL + Flyway** for database migrations  
-- **Docker Compose + Nginx + AWS EC2** deployment  
-
-🌍 **Live Demo:** [aifoodapp.site](https://aifoodapp.site) *(Temporarily under maintenance)*
-
-👉 [Explore the code](https://github.com/OtavioXimarelli/AiFoodApp)  
+- Google OAuth2 authentication, session persistence with Spring Session JDBC.
+- Complete CRUD for foods with nutritional data and user-specific preferences.
+- AI-powered recipe generation using Spring AI and the Maritaca API—get meal suggestions based on your pantry and dietary goals!
+- Clean, dashboard-style UI.
+- Technologies: Spring Boot, PostgreSQL, Redis, Flyway, Docker Compose, Nginx.
+- Built for easy public cloud deployment, runs on AWS EC2.
+- 🌍 **Demo (when online):** [aifoodapp.site](https://aifoodapp.site)
 
 ---
 
