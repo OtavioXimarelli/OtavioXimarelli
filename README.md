@@ -8,8 +8,8 @@
   <a href="mailto:otavio.ximarelli@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-  <a href="https://dev.to/otavioximarelli" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+  <a href="https://ximarelli.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-ximarelli.dev-%231579F6?style=for-the-badge&logo=vercel&logoColor=white" height="25" alt="portfolio button"  />
   </a>
 </div>
 
