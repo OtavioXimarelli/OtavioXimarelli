@@ -26,7 +26,7 @@
 </a>
   
 **Helping build the next generation of social platforms!**  
-Core backend/devops contributor for [QuoteVote](https://github.com/quote-vote/quote.vote-next):  
+Core backend/devops contributor for [QuoteVote](https://github.com/QuoteVote/quotevote-next):  
 A modern, open-source, text-only platform fostering real-time, deliberative chatrooms.
 
 - Full-stack refactor with Node.js 20+, Express 5, GraphQL (Apollo), MongoDB.
@@ -45,7 +45,7 @@ Hi, I’m **Otavio**, a passionate Brazilian backend developer focused on buildi
 - 🧩 **Full-Stack Explorer:** TypeScript, Next.js, Node.js, NestJS
 - 💡 **DevOps & Cloud:** Docker, Linux, AWS, CI/CD, Nginx
 - 🤝 **Open-source first** — ask me about how to collaborate!
-- 📚 **Always Learning:** Distributed Systems, GraphQL, System Architecture, French 🇫🇷
+- 📚 **Always Learning:** Distributed Systems, GraphQL, System Architecture
 
 ---
 
@@ -123,7 +123,7 @@ Full-stack nutrition and food management tool powered by AI.
 - Clean, dashboard-style UI.
 - Technologies: Spring Boot, PostgreSQL, Redis, Flyway, Docker Compose, Nginx.
 - Built for easy public cloud deployment, runs on AWS EC2.
-- 🌍 **Demo (when online):** [aifoodapp.site](https://aifoodapp.site)
+- 🌍 **Demo (currently offline):** [aifoodapp.site](https://aifoodapp.site)
 
 ---
 
