@@ -101,15 +101,15 @@ Showcasing who I am and what I do, built to be fast and accessible.
 
 ---
 
-### 🧩 CAF – Modular Modern App Boilerplate
+### ⚽ CAF Torneio – Real-Time Sports Management
+CAF Torneio is a full-stack, modular platform for managing and tracking amateur football tournaments.
 
-CAF (Code Architecture Foundation) is a modern template for rapid development of scalable TypeScript backend applications.
+* Live Experience: Real-time match timer, event tracking (goals, cards), and dynamic scoreboards.
+* Competition Engine: Automated fixture generation (Round-Robin) and dynamic standings calculations (wins, draws, goal differences).
+* Administrative Control: Admin dashboard for team management, logo uploads, and an intelligent penalty/suspension system.
+* Premium Tech Stack: Monorepo architecture (Nx) powered by NestJS (REST API), PostgreSQL (Prisma), and React + Vite on the frontend.
+* Quality & Design: Highly responsive interface built with Material UI (MUI), Framer Motion, and TailwindCSS, fully integrated with Google Analytics 4.
 
-- Plug-and-play modules for authentication, RBAC, database (MongoDB), and logging.
-- Strongly typed APIs (REST) with clean, maintainable architecture—ideal for quick MVPs or production SaaS.
-- Monorepo-ready structure, supports isolated service components or multi-app scaffolding.
-- Includes best-practices for environment configuration, Dockerization, and real-world cloud deployment.
-- Built with 95%+ TypeScript, plus CSS and small utilities.
 
 ---
 
